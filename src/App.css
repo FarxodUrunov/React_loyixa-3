@@ -1,0 +1,45 @@
+.nav-ul{
+  list-style: none;
+  width: 360px;
+  justify-content: space-between;
+  margin-left: 880px;
+  padding-top: 10px;
+}
+li{
+  cursor: pointer;
+}
+.pricing{
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.text{
+  margin: 0 auto;
+  width: 720px;
+  font-size: 20px;
+}
+.card-span1{
+  font-size: 40px;
+  font-weight: bold;
+}
+.card-span2{
+  font-size: 40px;
+  color: gray;
+}
+.card .btn{
+  width: 200px;
+}
+.card-text{
+  font-size: 18px;
+  padding: 15px ;
+}
+.list-group-item{
+  border: none !important;
+  padding: 2px;
+  color: gray
+}
+b{
+  color: black !important;
+}
+.img{
+  width: 20px;
+}
